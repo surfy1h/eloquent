@@ -6,7 +6,4 @@ this project allows users to
 - Login with email and password
 - Login with MFA
 - Enable/Disable MFA
-- Change email
-- Change password
-- Delete account
 - Logout
